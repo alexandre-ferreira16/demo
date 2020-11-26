@@ -3,8 +3,8 @@
 int main() {
   int a, b;
 
-  a = 2;
-  b = 7;
+  scanf("%d", &a);
+  scanf("%d", &b);
 
   printf("Soma = %d\n\n", a+b);
 
