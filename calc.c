@@ -7,6 +7,7 @@ int main() {
   scanf("%d", &b);
 
   printf("Soma = %d\n\n", a+b);
+  printf("Subtracao = %d\n\n", a-b);
 
   return 0;
 }
